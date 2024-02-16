@@ -5,13 +5,13 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/d0dge-dev/message-system/"
+    "url": "https://github.com/TomAbi2304/message-bot"
   },
   "scripts": {
     "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "d0dge-dev",
+  "author": "TomAbi",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.13.0",
